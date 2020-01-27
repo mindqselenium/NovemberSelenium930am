@@ -1,0 +1,18 @@
+2020-01-25 10:52:37,661 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2020-01-25 10:53:00,160 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - before login screenshot captured
+2020-01-25 10:53:03,354 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - after login screenshot captured
+2020-01-25 10:57:25,776 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2020-01-25 10:57:37,728 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - before login screenshot captured
+2020-01-25 10:57:43,823 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - after login screenshot captured
+2020-01-27 09:51:04,287 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2020-01-27 09:51:25,417 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - before login screenshot captured
+2020-01-27 09:51:27,849 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - after login screenshot captured
+2020-01-27 09:51:41,218 [main] INFO com.OHRMS.testcasescripts.HomePageTest - homepage screenshot captured
+2020-01-27 10:00:22,823 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2020-01-27 10:00:34,132 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - before login screenshot captured
+2020-01-27 10:00:36,828 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - after login screenshot captured
+2020-01-27 10:00:48,773 [main] INFO com.OHRMS.testcasescripts.HomePageTest - homepage screenshot captured
+2020-01-27 10:05:09,909 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2020-01-27 10:05:21,218 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - before login screenshot captured
+2020-01-27 10:05:23,731 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - after login screenshot captured
+2020-01-27 10:05:37,217 [main] INFO com.OHRMS.testcasescripts.HomePageTest - homepage screenshot captured
