@@ -7,7 +7,7 @@
     <classes>
    <class name="com.OHRMS.testcasescripts.LoginPageTest"></class>
     <class name="com.OHRMS.testcasescripts.HomePageTest"/>  
-    <class name="com.OHRMS.testcasescripts.AddEmployeePageTest"></class>
+   
       
     </classes>
   </test> <!-- Test -->
